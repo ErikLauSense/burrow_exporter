@@ -32,8 +32,8 @@ imports:
   version: 65c1f6f8f0fc1e2185eb9863a3bc751496404259
   subpackages:
   - xfs
-- name: github.com/sirupsen/logrus
-  version: ba1b36c82c5e05c4f912a88eab0dcd91a171688f
+- name: github.com/Sirupsen/logrus
+  version: dd1b4c2e81afc5c255f216a722b012ed26be57df
 - name: github.com/urfave/cli
   version: ab403a54a148f2d857920810291539e1f817ee7b
 - name: golang.org/x/sys
