@@ -1,4 +1,4 @@
-module burrow_exporter
+module github.com/ErikLauSense/burrow_exporter
 
 go 1.22.5
 
