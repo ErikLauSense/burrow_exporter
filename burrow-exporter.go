@@ -3,14 +3,14 @@ package main
 import (
 	"fmt"
 	"os"
-
+	"path/filepath"
 	log "github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 
 	"context"
 	"os/signal"
 	"syscall"
-	"burrow_exporter"
+	"github.com/ErikLauSense/burrow_exporter/burrow_exporter"
 )
 
 var Version = "1.0.0"
