@@ -2,8 +2,6 @@ module burrow_exporter
 
 go 1.22.5
 
-replace burrow_exporter v1.0.0 => github.com/ErikLauSense/burrow_exporter v1.0.0
-
 require (
 	github.com/ErikLauSense/burrow_exporter v1.0.0
 	github.com/prometheus/client_golang v1.20.1
