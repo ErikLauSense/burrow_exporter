@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"os"
-	"path/filepath"
 	log "github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 
