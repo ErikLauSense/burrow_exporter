@@ -10,11 +10,11 @@ import (
 	"context"
 	"os/signal"
 	"syscall"
-
-	"github.com/ErikLauSense/burrow_exporter"
+	gpath "github.com/ErikLauSense/burrow_exporter
+	"github.com/ErikLauSense/burrow_exporter/burrow_exporter"
 )
 
-var Version = "0.0.5"
+var Version = "1.0.0"
 
 func main() {
 	app := cli.NewApp()
