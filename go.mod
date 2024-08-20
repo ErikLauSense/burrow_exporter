@@ -3,7 +3,6 @@ module github.com/ErikLauSense/burrow_exporter
 go 1.22.5
 
 require (
-	github.com/ErikLauSense/burrow_exporter v1.0.0
 	github.com/prometheus/client_golang v1.20.1
 	github.com/sirupsen/logrus v1.9.3
 	github.com/urfave/cli v1.22.15
