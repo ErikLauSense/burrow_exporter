@@ -10,8 +10,7 @@ import (
 	"context"
 	"os/signal"
 	"syscall"
-	gpath "github.com/ErikLauSense/burrow_exporter
-	"github.com/ErikLauSense/burrow_exporter/burrow_exporter"
+	"burrow_exporter"
 )
 
 var Version = "1.0.0"
